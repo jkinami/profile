@@ -104,3 +104,9 @@ li {
 i {
   font-size: 3em; /* Adjust as needed */
 }
+
+.video-autoplay {
+  width: 60%;
+  align-self: center;
+  margin-top: 10px;
+}
